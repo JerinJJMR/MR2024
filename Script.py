@@ -41,7 +41,7 @@ class script(object):
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʜᴀʀᴀ ʜᴀʀᴀ ᴍᴀʜᴀᴅᴇᴠ
+🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : JeRiN JJ
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Cyber_sequrity_Crimes">ᴄʀᴇᴀᴛᴏʀ</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://github.com">ʟɪɴᴋ</a>
 </b>"""
